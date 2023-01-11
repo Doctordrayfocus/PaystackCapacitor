@@ -13,7 +13,7 @@
   "author": "Okafor Ikenna",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/core": "~2.1.0"
+    "@capacitor/core": "latest"
   },
   "devDependencies": {
     "rimraf": "^3.0.0",
@@ -25,7 +25,6 @@
     "dist/",
     "ios/",
     "android/",
-    "Bot101CapacitorPaystackPlugin.podspec",
     "CapacitorPaystackPlugin.podspec"
   ],
   "keywords": [
