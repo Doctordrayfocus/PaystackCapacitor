@@ -25,7 +25,8 @@
     "dist/",
     "ios/",
     "android/",
-    "Bot101CapacitorPaystackPlugin.podspec"
+    "Bot101CapacitorPaystackPlugin.podspec",
+    "CapacitorPaystackPlugin.podspec"
   ],
   "keywords": [
     "capacitor",
